@@ -1,0 +1,5 @@
+﻿  Kukusiki.cpp
+c:\users\eugene medvedev\documents\visual studio 2015\projects\kukusiki\kukusiki\kukusiki.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\eugene medvedev\documents\visual studio 2015\projects\kukusiki\kukusiki\kukusiki.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Kukusiki.vcxproj -> c:\users\eugene medvedev\documents\visual studio 2015\Projects\Kukusiki\Debug\Kukusiki.exe
+  Kukusiki.vcxproj -> c:\users\eugene medvedev\documents\visual studio 2015\Projects\Kukusiki\Debug\Kukusiki.pdb (Full PDB)
