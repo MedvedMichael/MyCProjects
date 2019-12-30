@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Prepare.dir/main.cpp.o CMakeFiles/Prepare.dir/functions.cpp.o  -o Prepare 
